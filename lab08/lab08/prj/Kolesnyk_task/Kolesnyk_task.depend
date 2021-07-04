@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624309171 source:c:\users\user\desktop\Ó÷¸áà\ÁÌÒÏ\lab8\prj\kolesnyk_task\main.cpp
+	<iostream>
+	"ModulesKolesnyk.h"
+	<windows.h>
+
+1624297723 c:\users\user\desktop\Ó÷¸áà\ÁÌÒÏ\lab8\prj\kolesnyk_task\moduleskolesnyk.h
+	<math.h>
+
